@@ -5,13 +5,18 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/raajv",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/raajvardhan-chaukulkar-48874254/",
           "class": "fab fa-instagram"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/raajvardhan-chaukulkar-48874254/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"

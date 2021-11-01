@@ -1,9 +1,9 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Raajvardhan Chaukulkar. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "The Coding Aviator",
+      "description": "👋 I'm a 34 year old developer from Mumbai.  Being in the aviation industry for the past 15 years , I have  been lucky to enjoy my passion and make a comfortable living doing it , I felt it was time to expand my horizons into my other passion which is tech, and thus I decided to join code fellows.I know ,due to my past experiences that have ingrained perseverance commitment and honesty ; professional skills such as time management , on time performance ,a client centric approach and professional discipline, along with the requisite soft skills needed to be part of a team, using adequate resource management;  I will be an asset to all my future employers , mentors and colleagues.",
       "section_name": {
-        "about": "About me",
+        "about": "Professional Software Developer with an eye for detail.",
         "projects": "Projects",
         "skills": "Skills",
         "experience": "Experience"
@@ -11,42 +11,46 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Magic City",
+        "startDate": "2021",
+        "description": "The most expanded application I had opportunity to work with. We did this project as our 201 final project. Application was created keeping entertainment in the time of covid in mind",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/magic-city/portfolio card trick.jpg"
+          
         ],
-        "url": "",
+        "url": "https://github.com/Code201-Team-Thor/201-project-team-thor",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Salmon Cookies",
+        "startDate": "2020",
+        "description": "Personal project for study subject. I was responsible for creating an application that takes in dynamic iterations of shops seling cookies in various cities and keeping track of sales :)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/salmon-cookies/portfolio salmon cookies.jpg"
+          
         ],
-        "url": "https://github.com",
+        "url": "https://raajv.github.io/cookie-stand/",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
             "class": "devicon-javascript-plain",
